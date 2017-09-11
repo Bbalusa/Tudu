@@ -16,7 +16,7 @@
     </properties>
     <profiles>
         <profile>
-            <id>inmemoryy</id>
+            <id></id>
             <properties>
                 <env>inmemory</env>
             </properties>
